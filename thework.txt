@@ -1,0 +1,24 @@
+(List Directories): Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ ls
+thework.txt
+
+(Touch): Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ touch testFile.jpg
+
+Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ ls
+testFile.jpg  thework.txt
+
+(Remove): Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ rm testFile.jpg
+
+Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ ls
+homeWork.txt  thework.txt
+
+Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ rm homeWork.txt
+
+Scatm@DESKTOP-VI1B2QA MINGW64 ~/homeWork
+$ ls
+thework.txt
